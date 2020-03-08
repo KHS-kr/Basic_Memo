@@ -1,4 +1,4 @@
 # Basic_Memo
-Android Memo Application
-Database : SQLite
+Android Memo Application<br>
+Database : SQLite<br>
 Language : Kotlin
